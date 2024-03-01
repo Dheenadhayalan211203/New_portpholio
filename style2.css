@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+.h
+{
+    color: red;
+    font-size: 100px;
+}
+.i
+{
+    font-size: 50px;
+
+}
+.this
+{
+    font-size: 50px;
+}
+.is
+{
+    font-size: 50px;
+}
+.d
+{
+    font-size: 70px;
+}
+.heena
+{
+    font-size: 50px ;
+}
+.dhayalan
+{
+    font-size: 50px;
+}
+.s{
+    font-size: 50px;
+}
+   
+.head
+{
+    display: flex;
+    justify-content: space-around;
+}
+.content
+{
+    padding-top: 200px;
+}
+.socialmedia
+{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+   
+    
+}
+.socialmedia img
+{
+   height: 50px;
+   
+}
+.smh
+{
+    display: flex;
+}
